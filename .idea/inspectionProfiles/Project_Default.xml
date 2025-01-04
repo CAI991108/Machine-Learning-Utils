@@ -1,0 +1,89 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="2765" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="LatexMultipleIncludes" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="LatexUnresolvedReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MarkdownUnresolvedLinkLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="1" class="java.lang.String" itemvalue="scipy" />
+            <item index="2" class="java.lang.String" itemvalue="bs4" />
+            <item index="3" class="java.lang.String" itemvalue="dnspython" />
+            <item index="4" class="java.lang.String" itemvalue="pymongo" />
+            <item index="5" class="java.lang.String" itemvalue="chart-studio" />
+            <item index="6" class="java.lang.String" itemvalue="TA-Lib" />
+            <item index="7" class="java.lang.String" itemvalue="jsonfield" />
+            <item index="8" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="9" class="java.lang.String" itemvalue="tzdata" />
+            <item index="10" class="java.lang.String" itemvalue="jqdatasdk" />
+            <item index="11" class="java.lang.String" itemvalue="plotly" />
+            <item index="12" class="java.lang.String" itemvalue="numpy" />
+            <item index="13" class="java.lang.String" itemvalue="APScheduler" />
+            <item index="14" class="java.lang.String" itemvalue="psutil" />
+            <item index="15" class="java.lang.String" itemvalue="pandas" />
+            <item index="16" class="java.lang.String" itemvalue="schedule" />
+            <item index="17" class="java.lang.String" itemvalue="Flask-APScheduler" />
+            <item index="18" class="java.lang.String" itemvalue="Django" />
+            <item index="19" class="java.lang.String" itemvalue="progressbar" />
+            <item index="20" class="java.lang.String" itemvalue="PyMySQL" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E122" />
+          <option value="E128" />
+          <option value="E266" />
+          <option value="E701" />
+          <option value="E722" />
+          <option value="E402" />
+          <option value="E712" />
+          <option value="E731" />
+          <option value="E741" />
+          <option value="E262" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N812" />
+          <option value="N802" />
+          <option value="N813" />
+          <option value="N814" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyStringFormatInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTupleAssignmentBalanceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bool.any" />
+          <option value="pandas.core.indexes.datetimes.DatetimeIndex.month" />
+          <option value="keras.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
